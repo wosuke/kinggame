@@ -162,7 +162,7 @@ body {
   transition: top 1s;
 }
 #step1.hide {
-  top: -100%;
+  top: -100vh;
 }
 #step1>h1 {
   position: absolute;
